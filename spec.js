@@ -7,6 +7,8 @@ var cn = {
     password:'abc'
 };
 
+//Database string connection
+
 var db = pgp(cn);
 
 var arr = [];
