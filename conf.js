@@ -1,4 +1,4 @@
-//conf.js
+//conf.js hahahaha
 exports.config ={
     framework:'jasmine',
     directConnect:true,
